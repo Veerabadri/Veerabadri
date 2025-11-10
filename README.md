@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Veerabadri
-- 👀 I’m interested in web/app dev
-- 🌱 I’m currently learning Mern Full Stack
+- 👀 I’m interested in Machine Learning, Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhadriveera260@gmail.com
 
